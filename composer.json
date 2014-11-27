@@ -1,0 +1,22 @@
+{
+    "name": "huijiewei/yii2-intltelinput",
+    "description": "International Telephone Input For Yii 2",
+    "keywords": ["yii2", "intltelinput"],
+    "license": "GPLv3",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Huijie Wei",
+            "email": "huijiewei@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/intl-tel-input": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "huijiewei\\intltelinput\\": ""
+        }
+    }
+}
