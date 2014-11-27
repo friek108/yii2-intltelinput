@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class IntlTelInputAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/intl-tel-input/assets';
+    public $sourcePath = '@bower/intl-tel-input';
 
     public $css = [
         'build/css/intlTelInput.css'
