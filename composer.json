@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/intl-tel-input": "*"
+        "bower-asset/intl-tel-input": ">3.7.0"
     },
     "autoload": {
         "psr-4": {
